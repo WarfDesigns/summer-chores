@@ -5,3 +5,7 @@
 <h2>Using Promises Instead</h2>
 
 <p>Added promiseversion.js and copied all the info from the callbackversion.js file to it. Then deleted the callbacks and rewrote with promises instead. </p>
+
+<h2>Using Async and Await</h2>
+
+<p>Updated the doSummerChores function to use async and await instead of chaining promises.
