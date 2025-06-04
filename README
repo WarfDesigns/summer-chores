@@ -1,3 +1,7 @@
 <h1>Summer Chores Assignment</h1>
 
 <p>This file is for helping me learn more about callbacks. </p>
+
+<h2>Using Promises Instead</h2>
+
+<p>Added promiseversion.js and copied all the info from the callbackversion.js file to it. Then deleted the callbacks and rewrote with promises instead. </p>

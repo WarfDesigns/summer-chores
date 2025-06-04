@@ -7,7 +7,7 @@ function mowYard(name, callback) {
 
 function weedEat(name, callback) {
   setTimeout(() => {
-    if (Math.random() < 0.9) { // 90% chance of success
+    if (Math.random() < 0.9) { 
       console.log(`${name} finished using the weed eater.`);
       callback();
     } else {
